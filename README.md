@@ -11,3 +11,6 @@ The projects are in there specific folders and each have their own topics.
 - [0x03 Data Structures](./)
 - [0x04 More Data Structures](./)
 - [0x05 Exceptions](./)
+- [0x06 Classes](./)
+- [0x07 Tests](./)
+- [0x08 Classes +](./)
