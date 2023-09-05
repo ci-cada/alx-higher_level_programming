@@ -14,3 +14,4 @@ The projects are in there specific folders and each have their own topics.
 - [0x06 Classes](./)
 - [0x07 Tests](./)
 - [0x08 Classes +](./)
+- [0x08 Objects](./)
